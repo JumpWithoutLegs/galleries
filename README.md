@@ -1,2 +1,2 @@
 # galleries
-https://my-json-server.typicode.com/JumpWithoutLegs/galleries
+https://my-json-server.typicode.com/jumpwithoutlegs/galleries
